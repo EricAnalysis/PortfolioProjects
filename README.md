@@ -1,0 +1,1 @@
+Many companies have a Sales Department which deals with various revenue related works of the company. Here in this project, there is a dataset from which insights are drawn that can be useful to executives to gain knowledge about the market.
